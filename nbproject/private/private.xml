@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Extern/Externalizer.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Utility/TypeInfo.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Utility/Functions.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Utility/HashedKey.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/Interfaces.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Utility/Endian.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Function/NativeFunction.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/INamespace.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/test.cpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/ObjectClass.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/IClass.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/NativeObject.hpp</file>
+            <file>file:/C:/Users/Konstantin/Documents/NetBeansProjects/Hermes/Object/IObject.hpp</file>
+        </group>
+    </open-files>
+</project-private>
